@@ -10,7 +10,7 @@ public class MainClass {
 
     public static void main(String[] args) {
 
-        System.out.println("ハローワールドから変更");
+        System.out.println("ハローワールドから変更２");
         //return 0;
     }
 
